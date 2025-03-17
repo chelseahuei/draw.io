@@ -64,7 +64,7 @@
         <mxCell id="HzKX50yaHsjfpwwAqF5f-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HzKX50yaHsjfpwwAqF5f-15" target="HzKX50yaHsjfpwwAqF5f-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HzKX50yaHsjfpwwAqF5f-15" value="Can be identify by&amp;nbsp;&lt;div&gt;focal mechanism map&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HzKX50yaHsjfpwwAqF5f-15" value="Can be identified&amp;nbsp;by&amp;nbsp;&lt;div&gt;focal mechanism map&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="152.75" y="440" width="134.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HzKX50yaHsjfpwwAqF5f-16" value="Set Rrup as Hypo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
